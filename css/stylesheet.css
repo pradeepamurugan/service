@@ -282,10 +282,10 @@
 	line-height:1.5;	
 }
 /*-------about-------*/
-/*=====about style====*/
+
   .abt-section{
 	 background-color:#3a89931a;
-      padding:10px 0;
+      padding:80px 0;
   }
   .abt-img{
 	  background-image:url('../image/about-img.jpg');
@@ -323,7 +323,7 @@
 	  margin-bottom:20px;
   }
   .about h1{
-	  font-size:34px;
+	  font-size:32px;
 	  font-weight:bold;
 	  font-family:'Raleway', sans-serif;
 	  margin-bottom:30px;
@@ -382,7 +382,7 @@ padding-top:10px;
 	padding:90px 0;
 }
 .logo-content{
-	padding:10px 30px;
+	padding:10px 40px;
 }
 .logo-content img{
 	width:100%;
@@ -417,7 +417,7 @@ padding-top:10px;
 }
 
 /*--------service Style ------*/
-.service-sec{ background-color:#3a89931a;
+.service-sec{ background-color:white;
 padding:80px 0;
 }
 .service-title{ 
